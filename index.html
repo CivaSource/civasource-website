@@ -95,13 +95,14 @@
                                     <img src="img/figure/bell-icon.png" alt="Bell">
                                 </div>
                                 <h2 class="item-title">SUBSCRIBE</h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit dummy text here.</p>
-                                <form action="vendor/php/subscribe.php" class="subscribe-form" method="POST" data-pixsaas="newsletter-subscribe">
+                                <p>Keep updated with our progress and releases:</p>
+                                <form netlify data-netlify-recaptcha="true" class="subscribe-form" method="POST" data-pixsaas="newsletter-subscribe">
                                     <div class="input-group stylish-input-group">
                                         <div class="item-icon">
                                             <i class="fas fa-envelope"></i>
                                         </div>
                                         <input type="email" name="email" class="form-control" id="newsletter-form-email" placeholder="Enter your Email" required>
+                                        <div data-netlify-recaptcha="true"></div>
                                         <span class="input-group-addon">
                                             <button type="submit">SUBMIT</button>
                                         </span>
