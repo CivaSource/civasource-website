@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Back Market Profit Calculator Extension</title>
+</head>
+<body>
+    <h1>Privacy Policy for Back Market Profit Calculator Extension</h1>
+    <p><strong>Last updated: 27th August 2024</strong></p>
+
+    <h2>Introduction</h2>
+    <p>The <strong>Back Market Profit Calculator</strong> extension is designed to help users calculate their profit, margin, and return on investment (ROI) for sales on the Back Market platform. We are committed to protecting your privacy and ensuring the security of your data.</p>
+
+    <h2>Data Collection and Use</h2>
+    <p>The extension collects the following information:</p>
+    <ul>
+        <li><strong>Sell Price</strong> and <strong>Buy Price</strong>: Used to calculate profit, margin, and ROI.</li>
+        <li><strong>Fee Percentages (Card Fee, Selling Fee, Shipping Fee)</strong>: Used for accurate fee calculations.</li>
+    </ul>
+    <p>This data is stored locally on your device using <code>chrome.storage.local</code> and is not transmitted or shared with any external servers or third parties.</p>
+
+    <h2>Data Security</h2>
+    <p>We prioritize your data security and take measures to ensure that any data stored locally on your device is secure. However, since this data is stored on your local device, it is your responsibility to maintain the security of your device.</p>
+
+    <h2>Your Consent</h2>
+    <p>By using the Back Market Profit Calculator extension, you consent to this privacy policy.</p>
+
+    <h2>Changes to This Privacy Policy</h2>
+    <p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.</p>
+
+    <h2>Contact Us</h2>
+    <p>If you have any questions or concerns about this Privacy Policy, please contact us at <a href="mailto:support@civasource.com">support@civasource.com</a>.</p>
+
+    <p><strong>Effective Date:</strong> 27th August 2024</p>
+</body>
+</html>
